@@ -40,6 +40,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ОбщийМодульКлиент</commonModules>
+  <commonModules>CommonModule.ОстаткиТоваров</commonModules>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Склад</catalogs>
   <catalogs>Catalog.Товары</catalogs>

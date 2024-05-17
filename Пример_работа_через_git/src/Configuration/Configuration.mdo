@@ -45,4 +45,5 @@
   <catalogs>Catalog.Склад</catalogs>
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
+  <accumulationRegisters>AccumulationRegister.ОстаткиТоваров</accumulationRegisters>
 </mdclass:Configuration>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9413881d-ee98-40ed-b652-bf214537118f">
+  <name>Пример_работа_через_git</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пример работа через git</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="957b34f4-e5e2-4dd8-a86c-c3d5784c5f70"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="ac798223-2352-4de5-9ec8-3caf7a910879"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="4be951c0-b65f-4578-8728-706d99024a78"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="835d35c0-3edc-40b9-87b1-be153374ec56"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="bc00f1bc-e88d-4967-9eb2-070ed8d63661"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="fbfa0ef7-31b8-4cf2-8dee-a3f036693357"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="68ebd314-e014-4676-9638-c7907af0fc0c"/>
+  <configurationExtensionCompatibilityMode>8.3.22</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.22</compatibilityMode>
+  <languages uuid="cf8ed347-8084-43a8-9afc-5ea7690c618c">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.ОбщийМодульКлиент</commonModules>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Склад</catalogs>
+  <documents>Document.ПриходнаяНакладная</documents>
+</mdclass:Configuration>

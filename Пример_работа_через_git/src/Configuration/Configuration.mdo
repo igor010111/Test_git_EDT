@@ -42,5 +42,6 @@
   <commonModules>CommonModule.ОбщийМодульКлиент</commonModules>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Склад</catalogs>
+  <catalogs>Catalog.Товары</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
 </mdclass:Configuration>
